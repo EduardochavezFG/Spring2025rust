@@ -1,0 +1,1 @@
+/workspaces/Spring2025rust/Closures_Assignment/Task_1_Basic_Closure/target/debug/Task_1_Basic_Closure: /workspaces/Spring2025rust/Closures_Assignment/Task_1_Basic_Closure/src/main.rs

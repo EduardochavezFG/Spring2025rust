@@ -1,0 +1,6 @@
+[package]
+name = "Task_5_Lazy_Computation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

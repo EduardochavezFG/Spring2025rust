@@ -1,0 +1,1 @@
+/workspaces/Spring2025rust/Closures_Assignment/Task_3_Vector_Transformation/Using_map_and_collect/target/debug/Using_map_and_collect: /workspaces/Spring2025rust/Closures_Assignment/Task_3_Vector_Transformation/Using_map_and_collect/src/main.rs

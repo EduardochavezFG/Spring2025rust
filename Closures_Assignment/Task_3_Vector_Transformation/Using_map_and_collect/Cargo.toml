@@ -1,0 +1,6 @@
+[package]
+name = "Using_map_and_collect"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

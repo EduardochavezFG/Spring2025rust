@@ -1,0 +1,1 @@
+/workspaces/Spring2025rust/Closures_Assignment/Task_3_Vector_Transformation/Using_a_for_loop/target/debug/Using_a_for_loop: /workspaces/Spring2025rust/Closures_Assignment/Task_3_Vector_Transformation/Using_a_for_loop/src/main.rs

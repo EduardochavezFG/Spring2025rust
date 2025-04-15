@@ -1,0 +1,1 @@
+/workspaces/Spring2025rust/Closures_Assignment/Task_2_Environment_Capture/target/debug/Task_2_Environment_Capture: /workspaces/Spring2025rust/Closures_Assignment/Task_2_Environment_Capture/src/main.rs
