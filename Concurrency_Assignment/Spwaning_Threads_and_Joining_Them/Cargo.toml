@@ -1,0 +1,6 @@
+[package]
+name = "Spwaning_Threads_and_Joining_Them"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

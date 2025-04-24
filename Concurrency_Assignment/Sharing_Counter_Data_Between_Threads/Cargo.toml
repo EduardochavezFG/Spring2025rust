@@ -1,0 +1,6 @@
+[package]
+name = "Sharing_Counter_Data_Between_Threads"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

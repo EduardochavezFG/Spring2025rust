@@ -1,0 +1,11 @@
+/workspaces/Spring2025rust/dog_api_example/target/debug/deps/libhttparse-ea345841cc497b8c.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs
+
+/workspaces/Spring2025rust/dog_api_example/target/debug/deps/libhttparse-ea345841cc497b8c.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs
+
+/workspaces/Spring2025rust/dog_api_example/target/debug/deps/httparse-ea345841cc497b8c.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs:
