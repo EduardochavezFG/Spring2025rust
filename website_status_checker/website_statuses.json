@@ -1,0 +1,14 @@
+[
+  {
+    "response_time_ms": "433",
+    "status": "error sending request for url (https://thisurldoesnotexist.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+    "timestamp": "SystemTime { tv_sec: 1747244878, tv_nsec: 856899631 }",
+    "url": "https://thisurldoesnotexist.tld"
+  },
+  {
+    "response_time_ms": "444",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747244878, tv_nsec: 856871427 }",
+    "url": "https://www.rust-lang.org"
+  }
+]

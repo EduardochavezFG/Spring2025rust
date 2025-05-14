@@ -1,0 +1,2 @@
+https://www.rust-lang.org
+https://thisurldoesnotexist.tld
