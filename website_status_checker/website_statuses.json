@@ -1,14 +1,134 @@
 [
   {
-    "response_time_ms": "433",
+    "response_time_ms": "120",
     "status": "error sending request for url (https://thisurldoesnotexist.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "timestamp": "SystemTime { tv_sec: 1747244878, tv_nsec: 856899631 }",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 357715020 }",
     "url": "https://thisurldoesnotexist.tld"
   },
   {
-    "response_time_ms": "444",
+    "response_time_ms": "84",
     "status": "200",
-    "timestamp": "SystemTime { tv_sec: 1747244878, tv_nsec: 856871427 }",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 477877261 }",
+    "url": "https://www.google.com"
+  },
+  {
+    "response_time_ms": "335",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 357753672 }",
     "url": "https://www.rust-lang.org"
+  },
+  {
+    "response_time_ms": "59",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 693986622 }",
+    "url": "https://www.wikipedia.org"
+  },
+  {
+    "response_time_ms": "332",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 563174034 }",
+    "url": "https://www.rust-lang.org"
+  },
+  {
+    "response_time_ms": "126",
+    "status": "403",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 895408501 }",
+    "url": "https://www.stackoverflow.com"
+  },
+  {
+    "response_time_ms": "37",
+    "status": "403",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 21457399 }",
+    "url": "https://www.reddit.com"
+  },
+  {
+    "response_time_ms": "355",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254924, tv_nsec: 753211002 }",
+    "url": "https://www.github.com"
+  },
+  {
+    "response_time_ms": "64",
+    "status": "403",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 59404941 }",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "response_time_ms": "109",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 108311175 }",
+    "url": "https://www.apple.com"
+  },
+  {
+    "response_time_ms": "192",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 124080204 }",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "response_time_ms": "45",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 316798327 }",
+    "url": "https://www.nytimes.com"
+  },
+  {
+    "response_time_ms": "384",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 362634890 }",
+    "url": "https://www.bbc.com"
+  },
+  {
+    "response_time_ms": "44",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 747170980 }",
+    "url": "https://www.cnn.com"
+  },
+  {
+    "response_time_ms": "636",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 217472661 }",
+    "url": "https://www.netflix.com"
+  },
+  {
+    "response_time_ms": "66",
+    "status": "403",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 853868738 }",
+    "url": "https://www.oracle.com"
+  },
+  {
+    "response_time_ms": "163",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 791730941 }",
+    "url": "https://www.mozilla.org"
+  },
+  {
+    "response_time_ms": "80",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 955297522 }",
+    "url": "https://www.nasa.gov"
+  },
+  {
+    "response_time_ms": "59",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254926, tv_nsec: 36307621 }",
+    "url": "https://www.whitehouse.gov"
+  },
+  {
+    "response_time_ms": "308",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254925, tv_nsec: 920158954 }",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "response_time_ms": "136",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254926, tv_nsec: 96311563 }",
+    "url": "https://www.house.gov"
+  },
+  {
+    "response_time_ms": "121",
+    "status": "200",
+    "timestamp": "SystemTime { tv_sec: 1747254926, tv_nsec: 232415569 }",
+    "url": "https://www.cdc.gov"
   }
 ]

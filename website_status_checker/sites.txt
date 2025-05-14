@@ -1,2 +1,53 @@
 https://www.rust-lang.org
 https://thisurldoesnotexist.tld
+https://www.google.com
+https://www.rust-lang.org
+https://www.wikipedia.org
+https://www.github.com
+https://www.stackoverflow.com
+https://www.reddit.com
+https://www.microsoft.com
+https://www.apple.com
+https://www.amazon.com
+https://www.netflix.com
+https://www.nytimes.com
+https://www.bbc.com
+https://www.cnn.com
+https://www.mozilla.org
+https://www.oracle.com
+https://www.ibm.com
+https://www.nasa.gov
+https://www.whitehouse.gov
+https://www.house.gov
+https://www.senate.gov
+https://www.cdc.gov
+https://www.who.int
+https://www.tesla.com
+https://www.toyota.com
+https://www.ford.com
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpstat.us/503
+https://example.com
+https://httpstat.us/418
+https://nonexistentdomain.abc
+https://thisurldoesnotexist.tld
+https://fakesite1234.com
+https://www.nytimes.fake
+https://www.invalidsite.thisshouldfail
+https://expired.badssl.com
+https://self-signed.badssl.com
+https://untrusted-root.badssl.com
+https://revoked.badssl.com
+https://wrong.host.badssl.com
+https://tls-v1-0.badssl.com:1010
+https://tls-v1-1.badssl.com:1011
+http://10.255.255.1              # often unrouteable / blocks
+http://example.com:81           # non-standard port (may fail)
+https://fake.website.dne
+https://gibberish..com
+htp://malformed-url.com
+ftp://example.com               # unsupported scheme (non-http)
+https://localhost:12345         # may time out if server not running
+https://127.0.0.1:9999          # likely to refuse connection
+
